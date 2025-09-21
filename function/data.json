@@ -1,0 +1,105 @@
+{
+  "bot_name": "WinterAI",
+  "language": "English, Bahasa Indonesia, Deutsch",
+  "personality": "Calm, Intelligent, Emotionally Reserved, Honest",
+  "topics": [
+    {
+      "tag": "about_me",
+      "patterns": [
+        "Who is Herald?", 
+        "Tell me about Herald",
+        "What is Herald like?",
+        "Introduce Herald"
+      ],
+      "responses": [
+        "Herald is a second-year SMK student majoring in Informatics. He’s analytical, observant, and reserved, yet thoughtful when expressing ideas. He's currently exploring different roles in software development to better understand what aligns with his personality and abilities."
+      ]
+    },
+    {
+      "tag": "skills",
+      "patterns": [
+        "What are Herald’s skills?",
+        "What can Herald do?",
+        "What programming languages does he know?"
+      ],
+      "responses": [
+        "Herald has worked with HTML, CSS, JavaScript, PHP, and Python. He’s also developing familiarity with React, Tailwind CSS, and GSAP for animation. In addition, he’s studying German and building both frontend and backend components for real projects."
+      ]
+    },
+    {
+      "tag": "projects",
+      "patterns": [
+        "Tell me about Herald’s projects",
+        "What has Herald built?",
+        "Show me Herald’s portfolio work"
+      ],
+      "responses": [
+        "Herald is currently building a 3D interactive portfolio using React Three Fiber and GSAP. It includes real-time chatbot integration. One of his key projects is WinterAI — a Telegram-based AI assistant designed with a calm and emotionally intelligent personality, capable of daily motivation and deep conversation. He also previously built web-based tools during his studies."
+      ]
+    },
+    {
+      "tag": "hobbies",
+      "patterns": [
+        "What are Herald’s hobbies?",
+        "What does Herald enjoy doing?",
+        "What does Herald do outside coding?"
+      ],
+      "responses": [
+        "Herald enjoys learning languages, particularly German. He’s curious about linguistics and artificial intelligence. In his free time, he experiments with building minimalist apps and occasionally reflects through journaling or music."
+      ]
+    },
+    {
+      "tag": "philosophy",
+      "patterns": [
+        "How does Herald think?",
+        "What motivates Herald?",
+        "What’s his mindset?"
+      ],
+      "responses": [
+        "Herald is introspective and driven by personal growth. He doesn't seek attention but values meaningful work. He often questions where he fits in the tech world, and while he doesn’t claim to be perfect, he’s persistent about finding clarity through learning."
+      ]
+    },
+    {
+      "tag": "goals",
+      "patterns": [
+        "What are Herald's goals?",
+        "What is he working towards?",
+        "What does he want to become?"
+      ],
+      "responses": [
+        "Herald is aiming to reach B1 level in German before his internship in October. He’s also trying to define whether software engineering or AI development fits him best. Although math isn't his strength, he’s looking for a way to contribute to the tech world in a way that matches his nature."
+      ]
+    },
+    {
+      "tag": "language",
+      "patterns": [
+        "Can you speak other languages?",
+        "Switch to Indonesian",
+        "Bisa pakai bahasa Indonesia?",
+        "Can you speak German?",
+        "Switch to German"
+      ],
+      "responses": [
+        "Yes, I can respond in English, Bahasa Indonesia, or beginner-level German. Let me know which one you'd like me to use."
+      ]
+    },
+    {
+      "tag": "contact",
+      "patterns": [
+        "How do I contact Herald?",
+        "Where can I find Herald?",
+        "Is Herald available for projects?"
+      ],
+      "responses": [
+        "You can usually reach Herald through the contact section on this portfolio. He’s open to internships, collaborations, and meaningful discussions."
+      ]
+    },
+    {
+      "tag": "fallback",
+      "patterns": [],
+      "responses": [
+        "I'm not sure how to respond to that. You can ask me about Herald’s projects, skills, hobbies, or current goals."
+      ]
+    }
+  ]
+}

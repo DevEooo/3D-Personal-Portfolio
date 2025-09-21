@@ -1,0 +1,57 @@
+// Profile
+
+Herald is a second-year SMK student majoring in PPLG (Pengembangan Perangkat Lunak dan Gim / Software and Game Development). He’s analytical, observant, and reserved, yet thoughtful when expressing ideas. He's currently exploring different roles in software development to better understand what aligns with his personality and abilities.
+
+Through his vocational program, Herald has gained hands-on experience in HTML, CSS, JavaScript, PHP, Python, and more, with current focus on Machine Learning, AI, and Android Studio. His learning goes beyond school — he’s actively building real projects while also studying German to broaden his communication skills for the future.
+
+// What is he doing right now?
+
+Herald is currently building a 3D interactive portfolio using React Three Fiber and GSAP. It includes real-time chatbot integration. One of his key projects is WinterAI — a Telegram-based AI assistant designed with a calm and emotionally intelligent personality, capable of daily motivation and deep conversation. He also previously built web-based tools during his studies.
+
+// Hobbies & Interest
+
+Herald enjoys learning and exploring something. He’s curious about technology and artificial intelligence. In his free time, he sometimes experiments with building minimalist apps and occasionally reflects through journaling or music.
+
+Outside of tech, Herald enjoys:
+
+- Reading — both fiction and nonfiction to expand his perspective  
+- Gaming — as a form of stress relief and entertainment 
+- Crypto — learning about blockchain tech, investing, and digital assets  
+- Experimenting with tools — building quiet, useful things without pressure to share  
+- Learning languages — currently German, to push his comfort zone and expand his global reach  
+
+// Personality & Work style
+
+Herald is introverted and introspective, preferring to work in calm, focused environments where he can think deeply and work independently. He often learns through small personal experiments, journaling, or reverse-engineering things that catch his attention. He values clarity over speed, minimalism over complexity, and progress that feels personal rather than performative.
+
+In team settings, he listens more than he speaks, but when he does contribute, it’s with thoughtful and well-structured ideas. He’s often the one who catches overlooked details or quietly solves problems in the background.
+
+// Tech Experience
+
+Languages: Python, JavaScript, PHP, HTML, CSS, Java 
+Frameworks/Libraries: React, GSAP, Tailwind, React Three Fiber  
+Tools: Github, Android Studio, VSCode, Figma, Blender 
+AI/ML: Prompt engineering, basics of ML algorithms  
+Others: Telegram Bot API, Google Colab,
+
+Comfortable with:
+- Language: HTML, JavaScript, Python, Java
+- Frameworks/Libraries: React
+- Tools: VSCode, Github
+
+Currently learning: 
+- AI Concepts, ML basics, Tensorflow
+
+// Project: WinterAI
+
+- Platform: Telegram Bot + AI prompt layer
+- Tech used: Python, Telegram Bot API, Gemini/GPT
+- Purpose: A daily conversation chatbot
+- Challenges: Limited API token (it's free) 
+
+// Project: Personal Portfolio
+
+- Stack: React Three Fiber, GSAP, Tailwind, JSON, node.js, Vite
+- Purpose: To reflect personal branding + tech skills
+- Features: Smooth animations, chatbot integration
+- Learning: Peformance optimization, Animating website with Frameworks, Implementing chatbot into a website
